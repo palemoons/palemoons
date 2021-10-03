@@ -1,12 +1,10 @@
 ### Hi there 👋
 Here's Palemoons😺, majoring in GIS(Geographic Infomation Science) but keeping enthusiastic with computer technology.
 
-- 🔭 Working on front-end most of time.
-- 🌱 Keeping learning tech in many other fields, such as back-end development and devops.
+- 🔭 Working on front-end most of the time.
+- 🌱 Trying learning tech in many other fields, such as back-end development and devops.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=palemoons&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=palemoons&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **palemoons/palemoons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
