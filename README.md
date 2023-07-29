@@ -1,8 +1,15 @@
 ### Hi there 👋
-Here's Palemoons😺, majoring in GIS(Geographic Infomation Science) but keeping enthusiastic with computer technology.
+Here's Palemoons😺, an ordinary engineer working in Chengdu.
 
-- 🔭 Working on front-end most of the time.
-- 🌱 Trying learning tech in many other fields, such as back-end development and devops.
+### :books: Education
+- 👨‍🎓 [**Zhejiang University, China**](http://www.zju.edu.cn/)
+  - Bachelor
+  - Geographic Infomation Science 
+  - 2019 - 2023
+- 👨‍🎓 [**Southwest Petroleum University, China**](https://www.swpu.edu.cn)
+  - Part Time Master
+  - Computer Science and Technology
+  - 2023 - 2026(est.)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=palemoons&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
